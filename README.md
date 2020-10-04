@@ -1,5 +1,3 @@
-<img align="right" width="373" height="200" src="https://media2.giphy.com/media/c9ndlj2AUhaqk/200.gif">
-
 # Welcome!
 ## I'm Lincoln Johnny! Let me introduce myself :D
 
@@ -18,6 +16,8 @@
 
 <!--
 **lincolnjohnny/lincolnjohnny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img align="right" width="373" height="200" src="https://media2.giphy.com/media/c9ndlj2AUhaqk/200.gif">
 
 Here are some ideas to get you started:
 
