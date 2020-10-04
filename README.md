@@ -3,6 +3,7 @@
 # Welcome!
 ## I'm Lincoln Johnny! Let me introduce myself :D
 
+- Undergraduate in System Analysis and Development from FATEC Franca - Dr. Thomaz Novelino
 - I’m currently learning Python 🐍 and Artificial Intelligence 🧠🤖 
 - Technology Lover ❤️
 
