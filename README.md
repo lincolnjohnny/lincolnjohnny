@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
+<img align="right" width="373" height="200" src="https://media2.giphy.com/media/c9ndlj2AUhaqk/200.gif">
 
 # Welcome!
 ## I'm Lincoln Johnny! Let me introduce myself :D
