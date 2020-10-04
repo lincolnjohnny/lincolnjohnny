@@ -14,9 +14,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lincolnjohnny@gmail.com)](mailto:lincolnjohnny@gmail.com)
 
 
-- Thanks for visiting. 
-- Enjoy it!! o/
-
+- Thanks for visiting 😉
 
 <!--
 **lincolnjohnny/lincolnjohnny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
