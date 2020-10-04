@@ -3,11 +3,14 @@
 # Welcome!
 ## I'm Lincoln Johnny! Let me introduce myself :D
 
+- I’m currently learning Python 🐍 and Artificial Intelligence 🧠🤖 
+- Technology Lover ❤️
+
+## About me 
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lincolnjohnny/)](https://www.linkedin.com/in/lincolnjohnny/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lincolnjohnny@gmail.com)](mailto:lincolnjohnny@gmail.com)
 
-- I’m currently learning Python 🐍 and Artificial Intelligence 🧠🤖 
-- Technology Lover ❤️
 
 - Thanks for visiting. 
 - Enjoy it!! o/
