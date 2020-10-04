@@ -6,6 +6,7 @@
 - Undergraduate in System Analysis and Development from FATEC Franca - Dr. Thomaz Novelino
 - I’m currently learning Python 🐍 and Artificial Intelligence 🧠🤖 
 - Technology Lover ❤️
+- Taking the first steps in Artificial Intelligence and Data Science
 
 ## About me 
 
