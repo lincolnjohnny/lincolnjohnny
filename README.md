@@ -5,7 +5,7 @@
 - Currently learning Python 🐍 and Artificial Intelligence 🧠🤖 
 - Technology Lover ❤️
 - Taking the first steps in Artificial Intelligence and Data Science
-- I believe in the technological potential to make people's lives easier and to create a barrier-free and accessible world for everyone.
+- I believe in the technological potential to make people's lives easier and to create a barrier-free and accessible world for everyone
 
 ## About me 
 
