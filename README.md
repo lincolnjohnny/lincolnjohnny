@@ -7,7 +7,7 @@
 - Taking the first steps in Artificial Intelligence and Data Science
 - I believe in the technological potential to make people's lives easier and to create a barrier-free and accessible world for everyone
 
-## About me 
+## How to contact me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lincolnjohnny/)](https://www.linkedin.com/in/lincolnjohnny/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lincolnjohnny@gmail.com)](mailto:lincolnjohnny@gmail.com)
